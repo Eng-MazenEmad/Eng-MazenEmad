@@ -1,14 +1,6 @@
 # Hi there! 🚀
 # I'm Mazen Emad 😃
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Eng-MazenEmad&color=blue&style=flat-square" />
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
 ## About me
 
 * 🎓 Information Systems student at Helwan University, Cairo.
@@ -16,6 +8,14 @@
 * 💻 Technologies I work with: Python, SQL Server, MySQL, Pandas, NumPy, and more.
 * 🏋️‍♂️ Fitness enthusiast and passionate about exploring new technologies and solving analytical problems.
 * ⚡ Fun fact: I love turning raw datasets into clean, actionable insights and visual dashboards!
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://wa.me/201146511702"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ## Languages and Tools
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=default&hide_border=false" alt="Top Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /> |
 |:---:|:---:|
 
 </div>
