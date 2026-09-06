@@ -1,12 +1,6 @@
 # Hi👋, I'm Mazen Emad
 
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384863.png" width="30" height="30" alt="Facebook" /></a>
-  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" /></a>
-  <a href="https://wa.me/201146511702"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" width="30" height="30" alt="WhatsApp" /></a>
-</p>
+
 
 ## About me
 
@@ -15,6 +9,14 @@
 * 💻 Technologies I work with: Python, SQL Server, MySQL, Pandas, NumPy, and more.
 * 🏋️‍♂️ Fitness enthusiast and passionate about exploring new technologies and solving analytical problems.
 * ⚡ Fun fact: I love turning raw datasets into clean, actionable insights and visual dashboards!
+
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384863.png" width="30" height="30" alt="Facebook" /></a>
+  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" width="30" height="30" /></a>
+  <a href="https://wa.me/201146511702"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" width="30" height="30" alt="WhatsApp" /></a>
+</p>
 
 ## Languages and Tools
 
