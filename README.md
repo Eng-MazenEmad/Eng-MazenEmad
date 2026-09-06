@@ -1,10 +1,12 @@
 # Hi there! 🚀
 # I'm Mazen Emad 😃
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Eng-MazenEmad&color=blue&style=flat-square)](https://github.com/Eng-MazenEmad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazen-emad1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iammazenemad)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201146511702)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Eng-MazenEmad&color=blue&style=flat-square" />
+  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/iammazenemad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/201146511702"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ## About me
 
