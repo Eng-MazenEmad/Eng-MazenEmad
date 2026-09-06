@@ -23,8 +23,6 @@
   <!-- Programming Languages & Core Tools -->
   <img src="https://skillicons.dev/icons?i=python,c,java,php,js,html,css,mysql,postgresql,git,github,vscode" />
   
-  <br><br>
-
   <!-- Data Analysis & BI Tools -->
   <a href="https://www.flaticon.com/free-icon/excel_888850?term=excel&related_id=888850" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/888/888850.png" width="48" height="48" alt="Excel" />
