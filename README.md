@@ -53,7 +53,7 @@
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" width="44%" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=radical&hide_border=true" width="53%" alt="Top Languages" />
 </p>
