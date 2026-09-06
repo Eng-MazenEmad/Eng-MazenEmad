@@ -10,7 +10,7 @@
 * 🏋️‍♂️ Fitness enthusiast and passionate about exploring new technologies and solving analytical problems.
 * ⚡ Fun fact: I love turning raw datasets into clean, actionable insights and visual dashboards!
 
-### Connect with me:
+### Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" /></a>
   <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384863.png" width="30" height="30" alt="Facebook" /></a>
