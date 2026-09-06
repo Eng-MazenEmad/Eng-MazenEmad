@@ -47,7 +47,7 @@
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true) |
 
 </div>
 </p>
