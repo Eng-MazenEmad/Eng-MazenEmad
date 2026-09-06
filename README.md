@@ -46,5 +46,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" width="40%" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" width="60%" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" width="40%" alt="Profile Summary Card" />
 </p>
