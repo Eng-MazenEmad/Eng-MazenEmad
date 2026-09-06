@@ -20,7 +20,7 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,php,js,html,css,mysql,postgresql,excel,powerbi,tableau,looker,canva,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,php,js,html,css,postgresql,excel,powerbi,tableau,looker,canva,git,vscode" />
 </p>
 
 ## Github Stats
