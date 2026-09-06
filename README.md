@@ -43,7 +43,7 @@
 ## Github Stats
 
 <details>
-<summary><b>GitHub Stats</b></summary>
+<summary><h2>GitHub Stats</h2></summary>
 
 <div align="center">
 
