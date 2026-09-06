@@ -48,3 +48,12 @@
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" width="53%" alt="Profile Summary Card" />
 </p>
+
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+</p>
