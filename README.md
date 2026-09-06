@@ -4,7 +4,7 @@
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="[https://cdn-icons-png.flaticon.com/512/15047/15047435.png](https://www.flaticon.com/free-icon/facebook-logo_1384863?term=facebook&page=1&position=58&origin=search&related_id=1384863)" width="48" height="48" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384863.png" width="48" height="48" alt="Facebook" /></a>
   <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" /></a>
   <a href="https://wa.me/201146511702"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" width="48" height="48" alt="WhatsApp" /></a>
 </p>
