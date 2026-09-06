@@ -1,5 +1,4 @@
-# Hi there! 🚀
-# I'm Mazen Emad 😃
+# Hi👋, I'm Mazen Emad
 
 ### Connect with me:
 <p align="left">
