@@ -55,5 +55,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" width="44%" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-git-masterrstaf-anuraghazra.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=radical&hide_border=true" width="53%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs?username=Eng-MazenEmad&theme=radical" width="53%" alt="Top Languages" />
 </p>
