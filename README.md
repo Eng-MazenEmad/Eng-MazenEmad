@@ -1,6 +1,14 @@
 # Hi there! 🚀
 # I'm Mazen Emad 😃
 
+### Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_LINK"><img src="https://cdn-icons-png.flaticon.com/512/15047/15047435.png" width="32" height="32" alt="Facebook" /></a>
+  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://wa.me/201146511702"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384055.png" width="32" height="32" alt="WhatsApp" /></a>
+</p>
+
 ## About me
 
 * 🎓 Information Systems student at Helwan University, Cairo.
@@ -8,14 +16,6 @@
 * 💻 Technologies I work with: Python, SQL Server, MySQL, Pandas, NumPy, and more.
 * 🏋️‍♂️ Fitness enthusiast and passionate about exploring new technologies and solving analytical problems.
 * ⚡ Fun fact: I love turning raw datasets into clean, actionable insights and visual dashboards!
-
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/mazen-emad1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://instagram.com/iammazenemad"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://wa.me/201146511702"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-</p>
 
 ## Languages and Tools
 
