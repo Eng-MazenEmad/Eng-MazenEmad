@@ -40,8 +40,6 @@
   </a>
 </p>
 
-## Github Stats
-
 <details>
 <summary><h2>GitHub Stats</h2></summary>
 
