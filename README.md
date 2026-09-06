@@ -44,7 +44,7 @@
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" height="185px" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" height="165px" style="vertical-align: middle;" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" height="185px" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" height="165px" style="vertical-align: middle;" alt="Profile Summary Card" />
 </p>
