@@ -43,11 +43,11 @@
 
 ## Github Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true&hide_rank=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true) |
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" alt="Profile Summary Card" />
+</p>
 </p>
