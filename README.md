@@ -43,7 +43,11 @@
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<div align="center">
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eng-MazenEmad&show_icons=true&theme=dark&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-MazenEmad&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+
+</div>
 </p>
