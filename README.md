@@ -43,11 +43,10 @@
 
 ## Github Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical" alt="Profile Summary Card" />
-</p>
-</p>
+| Streak Stats | Profile Summary |
+| :---: | :---: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats) | [![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical)](https://github.com/lucavallin/github-profile-summary-cards) |
+
+</div>
