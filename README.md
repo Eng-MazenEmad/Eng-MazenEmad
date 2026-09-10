@@ -1,7 +1,5 @@
 # Hi👋, I'm Mazen Emad
 
-
-
 ## About me
 
 * 🎓 Information Systems student at Helwan University, Cairo.
