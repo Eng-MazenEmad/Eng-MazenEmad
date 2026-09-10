@@ -32,3 +32,4 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eng-MazenEmad&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-MazenEmad&theme=radical)](https://github.com/lucavallin/github-profile-summary-cards)
